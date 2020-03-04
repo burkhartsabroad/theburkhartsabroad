@@ -10,5 +10,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Run a one-line script
-      run: Learn how we plan our RV travel on a budget
+      run: Learn how we plan our RV travel on a budget - https://burkhartsabroad.com/how-we-plan-our-rv-travel/
     - name: Rv Travel
